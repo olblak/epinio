@@ -27,7 +27,7 @@ jobs:
       - name: Setup Ginkgo Test Framework
         run: go get -u github.com/onsi/ginkgo/v2/ginkgo
       - name: Cache Tools
-        uses: actions/cache@v2
+        uses: actions/cache@v3.0.1
         with:
           path: ${{ github.workspace }}/tools
           key: ${{ runner.os }}-tools
