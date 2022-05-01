@@ -16,7 +16,7 @@ require (
 	github.com/briandowns/spinner v1.18.1
 	github.com/epinio/application v0.0.0-20220330124056-781d76cf649d
 	github.com/fatih/color v1.13.0
-	github.com/gin-contrib/sessions v0.0.4
+	github.com/gin-contrib/sessions v0.0.5
 	github.com/gin-gonic/gin v1.7.7
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/go-logr/logr v1.2.3
@@ -123,7 +123,7 @@ require (
 	github.com/gorilla/context v1.1.1 // indirect
 	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/gorilla/securecookie v1.1.1 // indirect
-	github.com/gorilla/sessions v1.2.0 // indirect
+	github.com/gorilla/sessions v1.2.1 // indirect
 	github.com/gosuri/uitable v0.0.4 // indirect
 	github.com/gregjones/httpcache v0.0.0-20180305231024-9cad4c3443a7 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
@@ -199,7 +199,7 @@ require (
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f // indirect
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20220315194320-039c03cc5b86 // indirect
+	golang.org/x/sys v0.0.0-20220408201424-a24fb2fb8a0f // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac // indirect
