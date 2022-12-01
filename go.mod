@@ -28,8 +28,8 @@ require (
 	github.com/mittwald/go-helm-client v0.11.1
 	github.com/novln/docker-parser v1.0.0
 	github.com/olekukonko/tablewriter v0.0.5
-	github.com/onsi/ginkgo/v2 v2.1.4
-	github.com/onsi/gomega v1.19.0
+	github.com/onsi/ginkgo/v2 v2.1.6
+	github.com/onsi/gomega v1.20.1
 	github.com/panjf2000/ants/v2 v2.5.0
 	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.5.0
@@ -41,13 +41,13 @@ require (
 	gopkg.in/ini.v1 v1.66.6
 	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.9.4
-	k8s.io/api v0.25.0
+	k8s.io/api v0.25.4
 	k8s.io/apiextensions-apiserver v0.25.0
-	k8s.io/apimachinery v0.25.0
+	k8s.io/apimachinery v0.25.4
 	k8s.io/apiserver v0.25.0
-	k8s.io/client-go v0.25.0
+	k8s.io/client-go v0.25.4
 	k8s.io/kubectl v0.25.0
-	k8s.io/metrics v0.25.0
+	k8s.io/metrics v0.25.4
 	k8s.io/utils v0.0.0-20220728103510-ee6ede2d64ed
 )
 
