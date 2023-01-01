@@ -6,7 +6,7 @@ require (
 	github.com/adrg/xdg v0.4.0
 	github.com/alron/ginlogr v0.0.4
 	github.com/avast/retry-go v3.0.0+incompatible
-	github.com/briandowns/spinner v1.18.1
+	github.com/briandowns/spinner v1.20.0
 	github.com/epinio/application v0.0.0-20220818130656-68d19f063ac1
 	github.com/fatih/color v1.13.0
 	github.com/gin-gonic/gin v1.8.1
@@ -37,7 +37,7 @@ require (
 	github.com/spf13/viper v1.12.0
 	go.uber.org/zap v1.21.0
 	golang.org/x/crypto v0.0.0-20220525230936-793ad666bf5e
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
+	golang.org/x/term v0.1.0
 	gopkg.in/ini.v1 v1.66.6
 	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.9.4
